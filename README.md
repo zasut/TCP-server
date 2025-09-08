@@ -29,7 +29,7 @@ A lightweight TCP server built in C to demonstrate socket programming and networ
 **Open a new terminal and run**
 
 
-```ns localhost 8080```
+```nc localhost 8080```
 
 **Afterwards type a message, example:**
 
